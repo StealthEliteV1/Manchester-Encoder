@@ -1,0 +1,7 @@
+output.ghw
+output.vcd
+output_review.ghw
+output_review.vcd
+work-obj08.cf
+*.zip
+.claude/
